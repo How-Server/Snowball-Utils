@@ -1,0 +1,1 @@
+give @s snowball{SBU_bomb:1b,display:{Name:'[{"text":"雪球炸彈","italic":false}]',Lore:['[{"text":"丟出去會爆炸的雪球","italic":false,"color":"aqua"}]','[{"text":"請小心使用","italic":false,"color":"aqua"}]']}} 1

@@ -1,0 +1,1 @@
+give @s snowball{SBU_tunnel:1b,display:{Name:'[{"text":"貫通雪球","italic":false}]',Lore:['[{"text":"會開出一條隧道的雪球","italic":false,"color":"aqua"}]','[{"text":"請小心使用","italic":false,"color":"aqua"}]']}} 1
